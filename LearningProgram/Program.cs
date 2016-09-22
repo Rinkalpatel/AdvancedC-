@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using LearningProgram;
+using LearningProgram.Inheritance;
 
 namespace LearningProgram
 {
@@ -11,6 +12,8 @@ namespace LearningProgram
         {
             static void Main(string[] args)
             {
+            var assignment = new TypeCheck();
+                Console.ReadLine();
             }
         }
 }

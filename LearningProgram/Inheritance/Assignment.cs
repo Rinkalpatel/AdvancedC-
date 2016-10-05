@@ -61,7 +61,7 @@ namespace LearningProgram.Inheritance
 
             //runtime check 
             a = new C();
-
+            Console.WriteLine("Check assignment");
              
             if (a is C) // true, if dynamic type of ais C or a subclass; otherwise false
             { 

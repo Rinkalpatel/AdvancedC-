@@ -13,7 +13,9 @@ namespace LearningProgram
             static void Main(string[] args)
             {
             var assignment = new TypeCheck();
-                Console.ReadLine();
+                var typecast = new TypeCasts();
+            var overriding = new OverRideClass();
+                Console.Read();
             }
         }
 }

@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Inheritance\Assignment.cs" />
+    <Compile Include="Inheritance\OverRiding.cs" />
+    <Compile Include="Inheritance\TypeCasts.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
